@@ -1,4 +1,4 @@
-![alt text](imgs/Screenshot.png "Title")
+![alt text](img/Screenshot.png "Title")
 
 # Snake Game with Pygame 🐍
 
@@ -8,7 +8,7 @@
 
 A simple classic "Snake" game, written in Python using the Pygame library.
 
-![alt text](imgs/Screenshot.png "Title")
+![alt text](img/Screenshot.png "Title")
 
 ## Installation and Running
 
